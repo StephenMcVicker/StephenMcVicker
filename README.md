@@ -2,11 +2,13 @@
 #### Front End Developer, Software Engineer, Game Designer
 ![Game Designer and Front End Developer](https://i.ibb.co/gPFBbdT/githubbanner.png)
 
-I have 8 years of experience in software development. I have been a game developer, web developer, and currently in love with front end development especially using frameworks like React. You can check out my portfolio here: https://stephenmcvicker.github.io/portfolio/ Reach out to me on Twitter here: https://twitter.com/stephenmcvicker
+I have 8 years of experience in software development. I have a passion for the visual side of things but love tinkering with how stuff works. I like to think of myself as a "backend" Front End Developer. Aside from web development, I have a history with mobile game creation, and even had a "hit" game on the iOS App Store (ZENFORMS: Protectors).
+Currently working for [bonkers.ie](https://www.bonkers.ie) as a Front End Developer.
+You can check out my portfolio here: https://stephenmcvicker.github.io/portfolio/ Reach out to me on Twitter here: https://twitter.com/stephenmcvicker
 
 Skills: 
-⚛ REACT / Vue / JS / 
-💻 HTML / CSS/ 
+⚛ Vue / React / JS / Server Side Rendering / Good Lighthouse scores!
+💻 HTML / CSS/ SASS
 🕹 C# / Unity Game Engine
 
 - 😄 Pronouns: Male 
