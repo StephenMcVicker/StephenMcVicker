@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Stephen from Ireland.
-#### Game Designer and Front End Developer
+### Hi there 👋, I'm Stephen from Dublin, Ireland.
+#### Front End Developer, Software Engineer, Game Designer
 ![Game Designer and Front End Developer](https://i.ibb.co/gPFBbdT/githubbanner.png)
 
 I have 8 years of experience in software development. I have been a game developer, web developer, and currently in love with front end development especially using frameworks like React. You can check out my portfolio here: https://stephenmcvicker.github.io/portfolio/ Reach out to me on Twitter here: https://twitter.com/stephenmcvicker
